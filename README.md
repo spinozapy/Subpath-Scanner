@@ -45,7 +45,7 @@ Choose an option (type 'exit' to quit):
 2  = List of Common Paths
 3  = Add Paths
 
-root@scanner:~$ 1
+root@you:~$ 1
 [Subpath Scanner]: Enter the domain: example.com
 
 [Subpath Scanner]: Subpath Scan Results
@@ -55,7 +55,7 @@ Found Paths:
   https://example.com/dashboard
   ...
 
-root@scanner:~$ 2
+root@you:~$ 2
 
 [Subpath Scanner]: Common Paths
 Common Paths:
@@ -64,7 +64,7 @@ Common Paths:
   dashboard
   ...
 
-root@scanner:~$ 3
+root@you:~$ 3
 [Subpath Scanner]: Enter paths to add (type 'exit' to finish adding):
 Add Path: newpath
 
